@@ -20,7 +20,7 @@ This React application serves as a practical introduction to the fundamental con
    - Users can add new cities to the list by entering the city name in the input field and clicking the "Add" button.
    - Each city in the list can be deleted individually by clicking the corresponding "Delete" button.
 
-## 5. Delete of the city:
+### 5. Deletion of a City:
    To delete a city from the list:
    - Locate the city in the displayed list.
    - Click the "Delete" button (represented by "✖") next to the city name.
@@ -29,33 +29,25 @@ This React application serves as a practical introduction to the fundamental con
 # App in Use: 
 
 - Here we have the interface of the App:
-![Alt text](image.png)
+  ![App Interface](image.png)
 
 - Now let's start with the Title of the movie:
-![Alt text](image-1.png)
-- After clicking the "Change the title" button we got ourselves another film title, that was stored in an array, and it's updated dynamically.
-![Alt text](image-2.png)
-- Now let's check the count functionnality:
-![Alt text](image-3.png)
-- On click "Increment" the button increment the count dynamically.
- ![Alt text](image-4.png)
+  ![Movie Title](image-1.png)
+- After clicking the "Change the title" button, we get another film title dynamically updated from an array.
+  ![Updated Movie Title](image-2.png)
+- Now let's check the count functionality:
+  ![Count Functionality](image-3.png)
+- Clicking "Increment" dynamically increases the count.
+   ![Increment Count](image-4.png)
 - Now let's move to the "Change the city" button.
-![Alt text](image-5.png)
-- As you observed you button displays the cities based on the cities we have in the list here we have "New York" and "Rabat"
- ![Alt text](image-6.png)
-- Now we have an add button to add another city, let's add "London" for exemple:
-![Alt text](image-7.png)
-- Seewe have it displayed in the list:
-![Alt text](image-8.png)
-- And then the change city we can change to our newly added city:
-![Alt text](image-9.png)
-
+  ![Change City](image-5.png)
+- The button dynamically displays the cities based on the available list.
+   ![City Display](image-6.png)
+- Now we have an "Add" button to add another city, let's add "London," for example:
+  ![Add City](image-7.png)
+- The added city is displayed in the list:
+  ![City List with New Addition](image-8.png)
+- We can then change the city to our newly added one:
+  ![Change to New City](image-9.png)
 
 ### Happy Coding.
-
-
-
-
-
-
-
