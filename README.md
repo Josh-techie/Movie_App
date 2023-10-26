@@ -29,25 +29,43 @@ This React application serves as a practical introduction to the fundamental con
 # App in Use: 
 
 - Here we have the interface of the App:
-  ![App Interface](Images/image.png)
+
+  ![App Interface](src/Images/image.png)
 
 - Now let's start with the Title of the movie:
-  ![Movie Title](Images/image-1.png)
+
+  ![Movie Title](src/Images/image-1.png)
+
 - After clicking the "Change the title" button, we get another film title dynamically updated from an array.
-  ![Updated Movie Title](Images/image-2.png)
+
+  ![Updated Movie Title](src/Images/image-2.png)
+
 - Now let's check the count functionality:
-  ![Count Functionality](Images/image-3.png)
+
+  ![Count Functionality](src/Images/image-3.png)
+
 - Clicking "Increment" dynamically increases the count.
-   ![Increment Count](Images/image-4.png)
+
+   ![Increment Count](src/Images/image-4.png)
+
 - Now let's move to the "Change the city" button.
-  ![Change City](Images/image-5.png)
+
+  ![Change City](src/Images/image-5.png)
+
 - The button dynamically displays the cities based on the available list.
-   ![City Display](Images/image-6.png)
+
+   ![City Display](src/Images/image-6.png)
+   
 - Now we have an "Add" button to add another city, let's add "London," for example:
-  ![Add City](Images/image-7.png)
+
+  ![Add City](src/Images/image-7.png)
+
 - The added city is displayed in the list:
+
   ![City List with New Addition](Images/image-8.png)
+
 - We can then change the city to our newly added one:
+
   ![Change to New City](Images/image-9.png)
 
 ### Happy Coding.
