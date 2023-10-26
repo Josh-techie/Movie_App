@@ -62,10 +62,10 @@ This React application serves as a practical introduction to the fundamental con
 
 - The added city is displayed in the list:
 
-  ![City List with New Addition](Images/image-8.png)
+  ![City List with New Addition](src/Images/image-8.png)
 
 - We can then change the city to our newly added one:
 
-  ![Change to New City](Images/image-9.png)
+  ![Change to New City](src/Images/image-9.png)
 
 ### Happy Coding.
